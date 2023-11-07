@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently mastering **Javascript, React.**
 
-- 📄 Here's my [Resume](https://drive.google.com/file/d/10r1teRxkfe0yuNeNtVhKnWd5hWLJQhlJ/view?usp=sharing)
+- 📄 Here's my [Resume](https://drive.google.com/file/d/1Zgy0cwgGHI2Dg3oklzSOyN4HtKsDZFTY/view?usp=sharing)
 
 - 👨‍💻 Here's my portfolio [link](https://harshkunte.netlify.app/)
 
