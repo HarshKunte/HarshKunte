@@ -5,8 +5,6 @@
 
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1Zgy0cwgGHI2Dg3oklzSOyN4HtKsDZFTY/view?usp=sharing)
 
-- 👨‍💻 Here's my portfolio [link](https://harshkunte.netlify.app/)
-
 - 📝 I write articles on [https://harshkunte.hashnode.dev/](https://harshkunte.hashnode.dev/)
 
 - 📫 You can connect with me here - **harshkunteofl@gmail.com**
