@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently mastering **Javascript, React.**
 
-- 📄 Here's my [Resume]([https://drive.google.com/file/d/1Zgy0cwgGHI2Dg3oklzSOyN4HtKsDZFTY/view?usp=sharing](https://drive.google.com/file/d/19ZBYCa4Nlo9jINAszcC_5fluR4HaU8bR/view?usp=drive_link))
+- 📄 Here's my [Resume](https://drive.google.com/file/d/1Zgy0cwgGHI2Dg3oklzSOyN4HtKsDZFTY/view?usp=sharing](https://drive.google.com/file/d/19ZBYCa4Nlo9jINAszcC_5fluR4HaU8bR/view?usp=drive_link)
 
 - 📝 I write articles on [https://harshkunte.hashnode.dev/](https://harshkunte.hashnode.dev/)
 
